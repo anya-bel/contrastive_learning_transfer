@@ -1,6 +1,6 @@
 # Enhancing token-level representations in PLMs using contrastive learning : a cross-model and cross-language study
 
-This is the repository with the code and datasets used to fine-tune language models as described in the paper [Raffinage des représentations des tokens dans les modèles de langue pré-entraînés avec l’apprentissage contrastif : une étude entre modèles et entre langues](https://coria-taln-2025.lis-lab.fr/wp-content/uploads/2025/06/CORIA-TALN_2025_paper_139.pdf)
+This is the repository with the code and datasets used to fine-tune pre-trained language models as described in the TALN paper: [Raffinage des représentations des tokens dans les modèles de langue pré-entraînés avec l’apprentissage contrastif : une étude entre modèles et entre langues](https://coria-taln-2025.lis-lab.fr/wp-content/uploads/2025/06/CORIA-TALN_2025_paper_139.pdf).
 
 ### Usage
 
